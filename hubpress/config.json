@@ -2,7 +2,8 @@
   "meta": {
     "username": "terezaton",
     "repositoryName": "terezaton.github.io",
-    "branch": "master"
+    "branch": "master",
+    "cname": ""
   },
   "theme": {
     "name": "casper"
@@ -22,5 +23,27 @@
       null,
       null
     ]
+  },
+  "site": {
+    "title": "Tereza Projetos",
+    "description": "Elaboração e execução de projetos sociais e culturais",
+    "logo": "",
+    "cover": "",
+    "delay": "",
+    "postsPerPage": "5",
+    "googleAnalytics": "",
+    "disqus": "terezaton"
+  },
+  "socialnetwork": {
+    "email": "",
+    "github": "",
+    "twitter": "",
+    "facebook": "",
+    "googleplus": "",
+    "instagram": "",
+    "pinterest": "",
+    "flickr": "",
+    "linkedin": "",
+    "stackoverflow": ""
   }
 }
