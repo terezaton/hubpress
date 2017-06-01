@@ -1,0 +1,6 @@
+= Projetos sociais
+// See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
+:hp-image: http://3.bp.blogspot.com/-ynqFXZ0e93o/UQ_OzIajFGI/AAAAAAAAABE/BzUkk_b9AuQ/s1600/solidariedade2.jpg
+// :published_at: 2019-01-31
+// :hp-tags: HubPress, Blog, Open_Source,
+// :hp-alt-title: My English Title
